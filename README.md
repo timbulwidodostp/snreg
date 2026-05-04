@@ -1,6 +1,8 @@
 # snreg
 Linear Regression with Skew-Normal Errors Use snreg With (In) R Software
 
+https://www.youtube.com/watch?v=xdaMmfMCW0I
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
